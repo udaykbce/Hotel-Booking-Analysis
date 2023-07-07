@@ -53,13 +53,20 @@ We have used Python 3 for its following packages:
 
 ## 📖 Conclusion
 
-1) City hotels are the most preferred hotel type by the guests. We can say the City Hotel is the busiest hotel.
-2) 27.5 % of bookings were got canceled out of all the bookings.
-3) Only 3.9 % of people have revisited the hotels. The rest 96.1 % were new guests. Thus retention rate is low.
-4) The percentage of 0 changes made in the booking was more than 82 %. The percentage of Single changes made was about 10%.
-5) Most of the customers (91.6%) do not require car parking spaces.
-6) 79.1 % of bookings were made through TA/TO (travel agents/Tour operators).
-7) BB( Bed & Breakfast) is the most preferred type of meal by the guests.
-8) Maximum number of guests was from Portugal, i.e. more than 25000 guests.
-9) Booking cancellation rate is high for City hotels which is almost 30 %.
-10) Waiting time period for City hotels is high as compared to resort hotels. That means city hotels are much busier than Resort hotels.
+
+*   Here adr(average daily rate) is correlated with no_of_people. It simply indicates that more revenue is generated when the number of people increases.
+
+*   Then, lead time and number of stays are correlated indicating that people take longer stay in hotels when booking is done more before then they arrive to stay.
+
+*   The percentage of city hotels is 66.45% while the percentage of resort hotels is 33.55% is used to stay.
+
+
+*   August is the month or we can say that the time of the year in which hotel booking is at its peak. And January is the month in which hotel bookings are the least.
+
+*   According to the given data set the optimal length or favorable time of stay is less than 1 day for weekends and 2 days for weekdays.
+
+*   Year 2016 is the highest booking year with a total booking of 56,707 then booking decreased to 40,687.
+
+*   Most of the guests came from European countries, with most no. of the guests coming from Portugal. 
+
+*   Mostly people stay 1 to 4 days. Generally, people go for City Hotels for staying short periods of time but for longer periods of stay people prefer Resort Hotel.
